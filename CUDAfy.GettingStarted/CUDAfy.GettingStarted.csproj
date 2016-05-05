@@ -67,6 +67,7 @@
     <Content Include="Readme\example_source_code.cs.txt" />
     <Content Include="Readme\ILSpy-license.txt" />
     <Content Include="Readme\README.txt" />
+    <Content Include="Setup.txt" />
     <Content Include="Tools\cudafycl.exe" />
     <Content Include="Tools\CudafyViewer.exe" />
   </ItemGroup>
